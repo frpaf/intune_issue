@@ -1,0 +1,1 @@
+/Users/francisfernandes/Documents/New5/my-app/android/app/build/intermediates/cxx/RelWithDebInfo/1d5d6517/obj/x86_64
